@@ -9,8 +9,7 @@
 
 ## Screenshot of alert and fired emails
 - Metric alert
-  
-![image](https://github.com/user-attachments/assets/ced23a89-70bc-4397-b6ae-2768ef928755)
+  Image **********
 
 - Stress on Machine
 ![image](https://github.com/user-attachments/assets/212f9245-0c63-435a-aa34-17ff79518031)
